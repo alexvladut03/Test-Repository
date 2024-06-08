@@ -1,5 +1,3 @@
-# Test-Repository
+# My first REPO
 
-This is a Test-Repository
-
-This is a second example
+Best man on earth
